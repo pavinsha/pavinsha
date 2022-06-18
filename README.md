@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 📫 How to reach me **[portfolio](https://shreyassrivastava.ml/)**
+- 📫 How to reach me **[My Website](https://shreyassrivastava.ml/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-raj-6008311bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-raj-6008311bb/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyas-srivastava-0365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-srivastava-0365/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nightcrawler7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nightcrawler7" height="30" width="40" /></a>
 </p>
 
