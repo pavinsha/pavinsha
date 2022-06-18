@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rapsonkrati&label=Profile%20views&color=0e75b6&style=flat" alt="rapsonkrati" /> </p>
 
-- 🌱 I’m currently learning **DSA and devops**
+- 🌱 I’m currently learning **Flutter, DSA & Nextjs**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Flutter**
 
-- 📫 How to reach me **prashantofficalraj@gmail.com**
+- 📫 How to reach me **[portfolio](https://shreyassrivastava.ml/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
